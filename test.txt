@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 A
 asdf
+=======
+https://en.wikipedia.org/wiki/Regular_polyhedron      Es gibt nur 9 Polyhedrons
+>>>>>>> 0eaf2039997ed6ca7e23b53cc4b97af98ea74da4
